@@ -1,4 +1,3 @@
-<img width="443" alt="Screenshot 2025-05-07 at 14 27 49" src="https://github.com/user-attachments/assets/6c1b09e9-474d-4934-8dcb-e339741144ac" />Sure! Here's a polished and engaging `README.md` for your **Tinder Clone App**, ideal for showcasing your project on GitHub:
 
 ---
 
@@ -64,6 +63,12 @@ flutter run           # Flutter
 ## 📸 Screenshots
 
 <img width="443" alt="Screenshot 2025-05-07 at 14 27 49" src="https://github.com/user-attachments/assets/c0ee1b7e-38ed-45e6-b1ca-8bbf88887c94" />
+
+
+
+
+
+
 
 
 
